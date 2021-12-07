@@ -1,4 +1,4 @@
-# shop_crud
+# store-crud
 
 A monolithic app with crud views for products and categories
 
@@ -7,7 +7,7 @@ A monolithic app with crud views for products and categories
 - clone this repo
 
 ```
-$ git clone https://github.com/BwanaQ/shop_crud.git
+$ git clone https://github.com/BwanaQ/store-crud
 ```
 
 ### Prerequisites
@@ -18,10 +18,10 @@ $ git clone https://github.com/BwanaQ/shop_crud.git
 
 ### Installing
 
-1. cd into the nyumba-kumi folder
+1. cd into the store-crud folder
 
 ```
-$ cd nyumba-kumi
+$ cd store-crud
 ```
 
 2. Add a python 3 environment
